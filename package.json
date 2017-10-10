@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daaniel",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "hapi-cors": "^1.0.1",
+    "inert": "^4.2.1",
+    "lowdb": "^1.0.0"
+  }
+}
